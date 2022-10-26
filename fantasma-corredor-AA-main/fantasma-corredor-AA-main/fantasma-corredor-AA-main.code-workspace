@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../Plantilla-del-proyecto-corredor-infinito-main"
+		},
+		{
+			"path": "../../../Pictures/Camera Roll"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "fantasma-corredor-AA-main"
+	}
+}
